@@ -3,7 +3,7 @@
 from django.db import models
 
 class Todo(models.Model):
-    title = models.Charfield(max_length=120)
+    title = models.CharField(max_length=120)
     description =  models.TextField()
     complete = models.BooleanField(default=False)
 
