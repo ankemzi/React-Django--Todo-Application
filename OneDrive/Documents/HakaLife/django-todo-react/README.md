@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React.
+This is a simple Todo application built off Django (including the Django REST Framework for API operations) and React.
 
 ## Requirements
 * Python3
