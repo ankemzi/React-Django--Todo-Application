@@ -1,8 +1,8 @@
 ## Introduction
 
 This is a simple Todo application built off Django (including the Django REST Framework for API operations) and React.
-##
-![alt text](https://github.com/ankemzi/React-Django--Todo-Application/blob/master/OneDrive/Documents/HakaLife/django-todo-react/images/Complete.PNG)
+## Sample Use Case
+![alt text](https://github.com/ankemzi/React-Django--Todo-Application/blob/master/OneDrive/Documents/HakaLife/django-todo-react/images/video.gif)
 ## Requirements
 * Python3
 * Pipenv
